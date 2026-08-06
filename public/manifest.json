@@ -1,0 +1,21 @@
+{
+  "short_name": "Gestión Financiera",
+  "name": "Gestión Financiera - Finanzas Personales",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#005BBF",
+  "theme_color": "#005BBF",
+  "display": "standalone",
+  "orientation": "portrait"
+}
